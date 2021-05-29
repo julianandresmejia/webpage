@@ -1,2 +1,0 @@
-# webpage
-Pagina web geodatascience
